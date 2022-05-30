@@ -9,3 +9,5 @@ Saya ingin melakukan career-switching dan ingin memperdalam ilmu saya terkait pr
 
 <!-- Ekspektasi -->
 Saya memiliki ekspektasi yang cukup tinggi terhadap HACKTIV8 karena saya yakin bahwa lembaga ini merupakan lembaga yang memiliki standar yang sangat baik sehingga lulusan-lulusannya banyak dibutuhkan di dunia kerja. Saya berekspektasi bahwa 4 bulan ke depan akan banyak tantangan yang saya yakin dapat membuat diri saya menjadi lebih baik dan membuat saya memiliki kemampuan yang mumpuni. 
+
+Saya juga berekspektasi mampu membuat aplikasi kompleks sendiri dalam 4 bulan ke depan
